@@ -1,0 +1,77 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-image: url("imgs/Bulgari.jpg");
+}
+
+.nav li {
+
+    display: inline-block;
+    font-size: 20px;
+    padding: 7px;
+    text-align: right;
+    margin-left: 20%;
+
+}
+
+.head img{
+&&
+
+}
+
+.bio h1{
+
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
+    position: absolute;
+    background-color:  rgb(0, 153, 0);
+    border: none;
+    padding: 10px 16px;
+    top: 100%;
+    left: 90%;
+}
+
+footer{
+
+    text-align: center;
+}
